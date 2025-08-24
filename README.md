@@ -1,5 +1,9 @@
-<h1>Hi 👋, I'm Adi</h1>
-<p>A passionate cracked developer from Nagpur 🍑</p>
+<h1>Hi 👋, I'm Adiii</h1>
+<p>A:
+🎓 Recent graduate passionate about AI, Data Science, and Automation.
+💻 Skilled in Python, SQL, and Machine Learning, with hands-on experience through projects and an internship at HEMRL, DRDO.
+⚡ Currently exploring n8n automation and building projects that combine AI with real-world problem-solving.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
