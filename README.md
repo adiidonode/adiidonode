@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Adiii</h1>
-<p>A:
+<p>
 🎓 Recent graduate passionate about AI, Data Science, and Automation.
 💻 Skilled in Python, SQL, and Machine Learning, with hands-on experience through projects and an internship at HEMRL, DRDO.
 ⚡ Currently exploring n8n automation and building projects that combine AI with real-world problem-solving.
